@@ -1,42 +1,33 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Noticiário fictício ambientado no ano de 2050, cobrindo eventos tecnológicos, sociais e ambientais futuristas
 
-## 🚀 Introdução
+Descrição 
 
-> Woooow! Look at this 👀
+O Noticiário Fictício do Futuro é um projeto que simula um telejornal ambientado no ano de 2050. Explorando cenários tecnológicos, científicos e sociais, trazendo notícias fictícias sobre inovações como colônias em Marte, carros voadores autônomos, avanços na medicina e mudanças climáticas. O vídeo combina narração gerada por IA, imagens futurísticas, oferecendo uma visão imersiva e realista de como o futuro pode ser. O objetivo é informar e entreter ao mesmo tempo, promovendo uma reflexão sobre o impacto da tecnologia na sociedade.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Tecnologias Utilizadas
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Canva (Vídeo): Utilizado para a edição e criação visual do vídeo, permitindo a combinação de elementos gráficos.
 
-### Objetivos
+ChatGPT (Texto): Ferramenta de geração de textos para criar os roteiros das notícias e diálogos, proporcionando uma narrativa envolvente e criativa sobre cenários futuristas.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Synthesia (Avatar): Tecnologia que gera avatares digitais realistas para atuar como apresentadores do noticiário, criando uma experiência visual de alta qualidade e imersiva.
 
-### Template
+Narakeet (Texto para Voz): Conversor de texto para voz utilizado para dar vida às falas do avatar, oferecendo uma narração natural e profissional ao vídeo.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Processo de Criação
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+O processo de criação do Noticiário Fictício do Futuro começa com o desenvolvimento do roteiro, utilizando o ChatGPT para gerar textos criativos e realistas sobre notícias de 2050. Em seguida, o texto é transformado em narração utilizando o Narakeet, que converte o roteiro em uma voz clara e profissional.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para dar vida ao apresentador do noticiário, um avatar gerado pela Synthesia é usado, garantindo uma presença visual convincente. A edição final acontece no Canva, onde os elementos visuais, gráficos futuristas e narração são combinados, criando um vídeo, pronto para apresentar um telejornal do futuro.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Resultados
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
+Reflexão (Opcional)
+Criar algo "natty" (natural, autêntico) com IA é um desafio interessante, pois a inteligência artificial tende a seguir padrões e dados preexistentes, o que pode resultar em criações que parecem artificiais ou padronizadas. O principal obstáculo é alcançar um equilíbrio entre o uso de tecnologias avançadas e a sensação de autenticidade, fazendo com que o produto final pareça humano, espontâneo e genuíno.
+
+
 
 ### Exemplos e Insigths
 
