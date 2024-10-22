@@ -26,9 +26,3 @@ Resultados
 
 Reflexão (Opcional)
 Criar algo "natty" (natural, autêntico) com IA é um desafio interessante, pois a inteligência artificial tende a seguir padrões e dados preexistentes, o que pode resultar em criações que parecem artificiais ou padronizadas. O principal obstáculo é alcançar um equilíbrio entre o uso de tecnologias avançadas e a sensação de autenticidade, fazendo com que o produto final pareça humano, espontâneo e genuíno.
-
-
-
-### Vídeo
-
-future-dio-news-2_.mp4
